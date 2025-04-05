@@ -4,7 +4,7 @@
 # In[2]:
 
 
-#pip install streamlit pandas matplotlib
+pip install streamlit pandas matplotlib
 
 
 # In[3]:
